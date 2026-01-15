@@ -12,7 +12,7 @@ Este projeto é uma aplicação web desenvolvida com **React** e **Vite**, focad
 
 O projeto está implantado e pode ser acessado online através da Vercel.
 
-🔗 **Deploy:** [Acesse o projeto aqui](https://teste-interdisciplinar-frontend.vercel.app)
+🔗 **Deploy:** [Acesse o projeto aqui](https://indigena-tech.vercel.app/)
 
 ---
 
